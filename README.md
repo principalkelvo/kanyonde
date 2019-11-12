@@ -1,2 +1,2 @@
 # kanyonde
-game 
+**Kanyode** is a game 
