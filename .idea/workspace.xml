@@ -1,26 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3f11c227-d7d3-45d8-ba9d-6a1d34ca854d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MercedesBenz.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/MercedesBenz.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bentley.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/bentley.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bmw.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/bmw.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bugatti.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/bugatti.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cadillac.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/cadillac.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chevrolet.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/chevrolet.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chrysler.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/chrysler.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/isuzu.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/isuzu.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jeep.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/jeep.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lexus.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/lexus.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mazda.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/mazda.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mitsubishi.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/mitsubishi.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rollsRoyce.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/rollsRoyce.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/skateboard.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/skateboard.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/toyota.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/toyota.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volkswagon.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/volkswagon.png" afterDir="false" />
-    </list>
+    <list default="true" id="3f11c227-d7d3-45d8-ba9d-6a1d34ca854d" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -130,12 +111,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1573587080042</updated>
-      <workItem from="1573587316552" duration="4316000" />
+      <workItem from="1573587316552" duration="4665000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4316000" />
+    <option name="totallyTimeSpent" value="4665000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="752" extended-state="6" />
